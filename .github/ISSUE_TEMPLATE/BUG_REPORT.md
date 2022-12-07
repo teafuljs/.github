@@ -1,6 +1,6 @@
 ---
 name: "🐞 Bug report"
-about: Report an issue with this software
+about: Report an issue with Teaful
 title: ''
 labels: ''
 assignees: ''
