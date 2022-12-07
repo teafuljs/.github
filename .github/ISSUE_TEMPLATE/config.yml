@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: ❓ Ask a question
     url: https://github.com/teafuljs/teaful/discussions
-    about: Ask questions about this software
+    about: Ask questions about Teaful
